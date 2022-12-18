@@ -311,14 +311,14 @@ int main()
 		printf("======================================================\n");
 		printf("                Welcome To the Fruit Shop             \n");
 		printf("======================================================\n");
-		printf("                     1. View Stock                   \n");
-		printf("                     2. Make an Order                \n");
-		printf("                     3. View Order from File         \n");
-		printf("                     4. Exit                         \n");
+		printf("                     1. View Stock                    \n");
+		printf("                     2. Make an Order                 \n");
+		printf("                     3. View Order from File          \n");
+		printf("                     4. Exit                          \n");
 		printf("======================================================\n");
 		printf("\nPlease select a number from the list\n");
         scanf("%d",&userchoice);
-        //Reference: https://www.programiz.com/c-programming/c-switch-case-statement
+        //Reference: https://www.programiz.com/c-programming/c-switch-case-statement, https://www.sanfoundry.com/c-program-inventory-items-store/, 
         switch(userchoice)
         {
             case 1:
