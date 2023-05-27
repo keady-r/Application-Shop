@@ -6,11 +6,13 @@ This folder contains the submission for Multi-Paradigm programming module as par
 To run this project save the file to a location on your device and follow the next steps:
 1. Unzip the folder 
 2. In your terminal navigate to the location that the files are saved. (cd filepath)
-3. To run the shop in C, navigate to the c folder (cd c)
-4. In your terminal enter the following to run the program:
+
+To run the shop in C:
+1. Navigate to the c folder (cd c)
+2. In your terminal enter the following to run the program:
                     i) cc shop.c -o shop.out
                     ii) /shop.out 
-5. A menu appears, select 1 to show products, select 2 to make an order, select 3 to read in a file (Note: the file names within the folder are:
+3. A menu appears, select 1 to show products, select 2 to make an order, select 3 to read in a file (Note: the file names within the folder are:
                     i) orderPass.csv : This will give a passing result
                     ii) orderBroke.csv : This will give a result showing that the user does not have enough in the budget.
                     iii) orderOOS.csv : This will give a result that there is not enough product in stock. 
