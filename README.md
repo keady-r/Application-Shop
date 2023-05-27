@@ -1,5 +1,8 @@
+
+#Overview
 This folder contains the submission for Multi-Paradigm programming module as part of HDIP in Computer Science and Data Analytics 2022 at Atlantic Technology University. 
 
+#How to Run
 To run this project save the file to a location on your device and follow the next steps:
 1. Unzip the folder 
 2. In your terminal navigate to the location that the files are saved. (cd filepath)
